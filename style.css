@@ -1,0 +1,24 @@
+/** @format */
+h1 {
+	color: #1124b5;
+	text-align: center;
+}
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: rgb(133, 163, 181);
+}
+
+p {
+	padding-right: 10%;
+	font-size: 20px;
+	padding-left: 20px;
+}
+
+.image_block {
+	display: flex;
+	padding-left: 10px;
+}
+
+.lol {
+	background-color: antiquewhite;
+}
